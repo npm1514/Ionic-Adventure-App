@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+ion-content {
+  background-image: url("https://images.unsplash.com/photo-1422568374078-27d3842ba676?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=4f59a97714bdb897e15d2eaa6396c711");
+  background-position: center;
+}
+
+input {
+  margin-top: 20px;
+  width: 150px;
+  margin: auto;
+}
+
+li {
+  margin: 20px;
+  color: #fff;
+}
